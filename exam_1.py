@@ -12,3 +12,27 @@ If Option1 and Option2 are equal, we will output, "Option1 and Option2 have the 
 
 
 """
+
+
+"""
+# option1
+return 100 * 10 
+
+# option2
+amount = 1 
+list1 = []
+loop 10 times
+  add amount to list1
+  amount *=2
+return amount
+
+var1 = option1
+var2 =option2
+
+if var1 > var2 
+  "Option1 is better"
+If var1 < var2 
+  "Option2 is better" 
+  else
+    "Option1 and Option2 pay the same"
+"""
