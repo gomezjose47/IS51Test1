@@ -36,3 +36,28 @@ If var1 < var2
   else
     "Option1 and Option2 pay the same"
 """
+
+def option1():
+  return 100 * 10
+
+def option2():
+  amount = 1 
+  list1 = []
+  for i in range (0,10)
+    list1.append(amount)
+    amount *= 2
+  total = sum(list1)
+  return total
+
+def main():
+var1 = option1() 
+var2 = option2()
+
+answer = ""
+if var1 == var2:
+  answer ="Option1 and Option2 pay the same"
+If var1 < var2
+  answer = "Option2 is better"
+  else:
+    "Option1 is better"
+print(answer)
